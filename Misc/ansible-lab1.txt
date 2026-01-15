@@ -9,6 +9,16 @@
 7. Test running ad-hoc commands to all hosts
 8. Install python-simplejson module. This allows clients to be fully managed.
 
+Misc
+Install Oracle Virtual Box: https://www.virtualbox.org/
+Install Vagrant: https://www.vagrantup.com/downloads.html
+git clone https://github.com/bradmorg/ansible-labs.git
+vagrant up
+vagrant ssh ansible-control
+
+YouTube - Ansible
+https://www.youtube.com/watch?v=KuiAiUyuDY4&list=PLnFWJCugpwfzTlIJ-JtuATD2MBBD7_m3u
+
 # Setup Vagrant and connect to ansible-control server
 
  vagrant up
